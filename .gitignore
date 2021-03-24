@@ -1,1 +1,4 @@
 /venv/
+djangoEcommerce/__pycache__/
+e_commerce/__pycache__/
+e_commerce/migrations/__pycache__/
